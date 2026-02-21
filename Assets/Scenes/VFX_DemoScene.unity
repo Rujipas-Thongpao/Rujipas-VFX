@@ -240,12 +240,12 @@ VisualEffect:
       - m_Value: {x: 0.12743773, y: 0.27467737, z: 0.46207705, w: 1}
         m_Name: Outer Aura Head Color
         m_Overridden: 0
-      - m_Value: {x: 1023.9999, y: 0, z: 90.00829, w: 1}
+      - m_Value: {x: 38.937145, y: 0, z: 2.563539, w: 1}
         m_Name: Inner Aura Head Color
-        m_Overridden: 0
-      - m_Value: {x: 3.9999995, y: 1.737192, z: 0.71204174, w: 1}
+        m_Overridden: 1
+      - m_Value: {x: 3.7281432, y: 0.545153, z: 0.60502744, w: 1}
         m_Name: Inner Aura Tail Color
-        m_Overridden: 0
+        m_Overridden: 1
       - m_Value: {x: 0, y: 0, z: 0, w: 0}
         m_Name: Bullet Color
         m_Overridden: 0
